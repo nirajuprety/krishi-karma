@@ -1,0 +1,31 @@
+.navbar-nav {
+    align-items: center;
+}
+
+.nav-link {
+    color: #333 !important;
+    font-size: 1rem !important;
+    font-weight: 400;
+}
+
+.navbar-brand {
+    color: #14b789 !important;
+}
+
+.navbar-icon:hover {
+    background-color: #14b789;
+    border: 2px solid white !important;
+}
+
+.mx-auto {
+    padding: 1rem !important;
+}
+
+.flex {
+    display: flex !important;
+}
+
+.card {
+
+    margin: auto;
+}
